@@ -21,6 +21,7 @@
 ### フレームワーク
 <p>
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="nestjs" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white" />
 </p>
@@ -29,9 +30,15 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="material-ui" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=MaterialUI&logoColor=white" />
+  <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="eslint" src="https://img.shields.io/badge/-Eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="jira" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
 ## 経歴詳細
